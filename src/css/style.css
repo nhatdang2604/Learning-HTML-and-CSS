@@ -239,4 +239,7 @@ p::after {
         font-size: 60px;
     }
 
+    nav li {
+        font-size: 18px;
+    }
 }
