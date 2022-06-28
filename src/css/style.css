@@ -251,3 +251,30 @@ p::after {
     }
 
 }
+
+@media screen and (max-width: 700px) {
+
+    .banner .welcome {
+        position: relative;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .banner .welcome h2 br {
+        display: none;
+    }
+
+    .banner .welcome h2 {
+        font-size: 25px;
+    }
+
+    .banner .welcome h2 span {
+        font-size: 1em;
+    }
+
+    .images li {
+        width: 100%;
+        margin: 20px auto;
+        display: block;
+    }
+}
