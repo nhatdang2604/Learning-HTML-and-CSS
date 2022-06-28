@@ -230,3 +230,9 @@ p::selection {
 p::after {
     content: "...hehe";
 }
+
+/*Responsive style*/
+
+@media screen and (min-width: 1400px) {
+
+}
