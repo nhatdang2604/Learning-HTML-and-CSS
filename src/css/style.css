@@ -233,6 +233,10 @@ p::after {
 
 /*Responsive style*/
 
-@media screen and (min-width: 1400px) {
+@media screen and (max-width: 1400px) {
+
+    .banner .welcome h2 {
+        font-size: 60px;
+    }
 
 }
